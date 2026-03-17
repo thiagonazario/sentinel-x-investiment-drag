@@ -23,7 +23,7 @@ A single directional signal that answers:
 - **Signal-to-Noise:** Filters out telemetry noise to deliver executive clarity.
 ---
 
-```marmeid
+```mermaid
 graph TD
     subgraph "Nível 1: Sensores (Telemetry Noise)"
         A1[AWS CloudWatch] --> B
