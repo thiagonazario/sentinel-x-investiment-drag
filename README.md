@@ -21,6 +21,7 @@ A single directional signal that answers:
 - **ReadOnly Execution:** Zero risk to production environments.
 - **Active Auditing:** Ghost-mode monitoring of 'Zombie Resources'.
 - **Signal-to-Noise:** Filters out telemetry noise to deliver executive clarity.
+- **Identity Sovereignty:** Runs under fine-grained IAM roles, ensuring the auditor never exceeds its defensive scope.
 ---
 
 ```mermaid
